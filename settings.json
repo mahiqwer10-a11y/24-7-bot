@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MrUnknown5.aternos.me",
+    "username": "unknown676767bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
+    "ip": "MrUnknown5.aternos.me",
     "port": :29043,
     "version": "1.20.11",
     "try-creative": false
