@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "MrUnknown5.aternos.me",
-    "port": :29043,
+    "port": 29043,
     "version": "1.20.11",
     "try-creative": false
   },
